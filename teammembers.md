@@ -14,7 +14,7 @@ Prof. Dr. Alexander Joseph Probst
 
  ![AJP](docs/assets/docs/assets/gem_alexander_probst.jpeg)
 
-alexander.probst@uni-due.de, office: S05 T02 A30, XXXX
+alexander.probst@uni-due.de, office: S05 T02 A30
 
 ## Substitute Lab head & PostDoc
 
@@ -137,7 +137,7 @@ Manan Shah
 
 ![MS](docs/assets/docs/assets/gem_manan_shah.jpeg)
 
-manan.shah@uni-due.de, *office: XX*
+manan.shah@uni-due.de, office: S05 V05 F28 
 
 Lennard Stach
 
