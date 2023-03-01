@@ -7,7 +7,7 @@ This list was last updated on 1st of March 2023
 103 publications in total, 89 in peer-reviewed journals, and two patents
 peer-rev additions panos methanogen/ubin/lennards/papai
 
-till 2015, some stars were removed as they cause highlighting in html
+till 2015, some stars were removed as they cause highlighting in markdown
 ### 2023
 103. Turzynski V, Griesdorn L, Moraru C, Soares A, Simon SA, Stach TL, Rahlff J, Esser SP and Probst AJ (2023). Virus-host dynamics in archaeal groundwater biofilms and the associated bacterial community composition | bioRxiv, available at https://doi.org/10.1101/2023.02.03.526798 
 102. Stach TL, Sieber G, Shah M, Simon SA, Soares AR, Bornemann TLV, Plewka J, Künkel J, Becker C, Meyer F, Boenigk J and Alexander J. Probst (2023). Temporal disturbance of a model stream ecosystem by high microbial diversity from treated wastewater | accepted at MicrobiologyOpen
