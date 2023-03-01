@@ -60,7 +60,7 @@ Dr. Julia Nuy
 
 ![JN](docs/assets/docs/assets/gem_julia_nuy.jpeg)
 
-julia.nuy@uni-due.de, office: *XXXXX*
+julia.nuy@uni-due.de, office: T03 R02 D60
 
 Dr. Liliana Christina Moraru
 
