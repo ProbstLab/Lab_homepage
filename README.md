@@ -1,6 +1,6 @@
 # Probst Lab Homepage
 
-![logo](docs/assets/cat_example_pic.jpg)
+![logoprobstlab](docs/assets/cat_example_pic.jpg)
 
 
 ## General data
