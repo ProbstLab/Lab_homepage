@@ -13,10 +13,10 @@ Germany, 45141 Essen, Universitaetsstrasse 5
 
 Access an overview of current team members as well as contact information via:
 
-[Team members](https://ProbstLab.github.io/Lab_homepage/teammembers )?
+[Team members](https://ProbstLab.github.io/Lab_homepage/teammembers )
 
 ## Publications
 
 The publication list can be accessed via:
 
-[Publication list](https:////ProbstLab.github.io/Lab_homepage/publications )?
+[Publication list](https:////ProbstLab.github.io/Lab_homepage/publications )
