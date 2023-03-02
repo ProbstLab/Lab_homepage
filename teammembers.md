@@ -64,149 +64,162 @@ manan.shah@uni-due.de, office: S05 V05 F28, office tel.: +49 201 1832441
 
 ## PostDocs
 
-Dr. Julia Nuy
-
-![JN](docs/assets/gem_julia_nuy.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_julia_nuy.jpeg" width="300" />
+Dr. Julia Nuy <br>
 julia.nuy@uni-due.de, office: T03 R02 D60, office tel.: +49 201 1836935
+<br>
+<br>
+<br>
 
-
-Dr. Till Leander Valentin Bornemann
-
-![TLVB](docs/assets/gem_till_bornemann.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_till_bornemann.jpeg" width="300" />
+Dr. Till Leander Valentin Bornemann <br>
 till.bornemann@uni-due.de, office: S05 T02 B16, office tel.: +49 201 1837180
-
+<br>
+<br>
+<br>
 
 ## PhD Students
 
-Julia Plewka
-
-![JP](docs/assets/gem_julia_plewka.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_julia_plewka.jpeg" width="300" />
+Julia Plewka <br>
 julia.plewka@uni-due.de, office: S05 T02 B16, office tel.: +49 201 1837180
+<br>
+<br>
+<br>
 
-
-Indra Banas
-
-![IB](docs/assets/gem_indra_monsees.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_indra_monsees.jpeg" width="300" />
+Indra Banas <br>
 indra.banas@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1834109
 
+<br>
+<br>
+<br>
 
-Sophie Simon
-
-![SP](docs/assets/gem_sophie_simon.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_sophie_simon.jpeg" width="300" />
+Sophie Simon <br>
 sophie.simon@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837085
 
+<br>
+<br>
+<br>
 
-Sarah Esser
-
-![SPE](docs/assets/gem_sarah_esser.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_sarah_esser.jpeg" width="300" />
+Sarah Esser <br>
 sarah.esser@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1833262
 
+<br>
+<br>
+<br>
 
-Perla-Abigail Figueroa-Gonzalez
-
-![PAFG](docs/assets/gem_perla_figueroa_gonzalez.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_perla_figueroa_gonzalez.jpeg" width="300" />
+Perla-Abigail Figueroa-Gonzalez <br>
 abigail.figueroa-gonzalez@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837081
 
+<br>
+<br>
+<br>
 
-Katharina Siems
-
-![KS](docs/assets/gem_katharina_siems.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_katharina_siems.jpeg" width="300" />
+Katharina Siems <br>
 Katharina.Siems@dlr.de, at DLR and externally supervised by AJP
 
+<br>
+<br>
+<br>
 
-Victoria Turzynski
-
-![VT](docs/assets/gem_victoria_turzynski.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_victoria_turzynski.jpeg" width="300" />
+Victoria Turzynski <br>
 victoria.turzynski@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837081
+<br>
+<br>
+<br>
 
-
-Ismail Hayani
-
-![IH](docs/assets/blank-portrait.png)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
+Ismail Hayani <br>
 ismail.hayani.aji@uni-oldenburg.de
 
+<br>
+<br>
+<br>
 
-Hector Palomeque
-
-![HP](docs/assets/gem_hector_hugo.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_hector_hugo.jpeg" width="300" />
+Hector Palomeque <br>
 Hector.Palomeque@dlr.de, at DLR and externally supervised by AJP
 
+<br>
+<br>
+<br>
 
-Lennard Stach
-
-![LS](docs/assets/gem_tom_lennard_stach.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_tom_lennard_stach.jpeg" width="300" />
+Lennard Stach <br>
 tom.stach@uni-due.de, office: S05 T02 B16, office tel.: +49 201 1837181
+<br>
+<br>
+<br>
 
-
-Joern Starke
-
-![JS](docs/assets/gem_joern_starke.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_joern_starke.jpeg" width="300" />
+Joern Starke <br>
 joern.starke@uni-due.de, office: S05 T02 B16, office tel.: +49 201 1837181
 
+<br>
+<br>
+<br>
 
 ## Master Students
 
-Carrie Moore
-
-![CM](docs/assets/gem_carrie_moore.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_carrie_moore.jpeg" width="300" />
+Carrie Moore <br>
 carrie.moore@stud.uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837081
 
+<br>
+<br>
+<br>
 
-Julian Kuenkel
-
-![JK](docs/assets/blank-portrait.png)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
+Julian Kuenkel <br>
 julian.kuenkel@stud.uni-due.de, office: S05 T02 B16, office tel.: +49 201 1837180
 
+<br>
+<br>
+<br>
 
-Thomas Beesley
-
-![TB](docs/assets/gem_Thomas_Beesley.jpg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_Thomas_Beesley.jpg" width="300" />
+Thomas Beesley <br>
 thomas.beesley@stud.uni-due.de, office: S05 T02 A24, office tel.: +49 201 1833262
+
+<br>
+<br>
+<br>
 
 
 ## Bachelor Students
 
-Adrian Lange
 
-![AL](docs/assets/blank-portrait.png)
 
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
+Adrian Lange <br>
 adrian.lange@stud.uni-due.de, office: S05 T02 A27
 
 
 ## Student Helpers
 
-Jannis Becker
 
-![JB](docs/assets/blank-portrait.png)
 
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
+Jannis Becker <br>
 jannis.becker@stud.uni-due.de, office: S05 T02 B16
 
+<br>
+<br>
+<br>
 
-Komal Kaur
-
-![KK](docs/assets/GEM_Komal_Preet_Kauer.jpg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/GEM_Komal_Preet_Kauer.jpg" width="300" />
+Komal Kaur <br>
 komal.kaur@stud.uni-due.de, office: S05 T02 A27
-
-
-Lea Griesdorn
-
-![LG](docs/assets/blank-portrait.png)
-
+<br>
+<br>
+<br>
+ 
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
+Lea Griesdorn <br>
 lea.griesdorn@stud.uni-due.de, office: S05 T02 A27
