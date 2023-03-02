@@ -7,7 +7,6 @@ This is a list of current (state March 1st 2023) Probst Lab team members with th
 Latest group picture from Spring 2023.
 
 
-
 ## Head of the lab
 
 Prof. Dr. Alexander Joseph Probst
@@ -39,7 +38,7 @@ Maximiliane Ackers
 
 ![MA](docs/assets/docs/assets/blank-portrait.png)
 
-maximiliane.ackers@uni-due.de, office: S05 T02 B36
+maximiliane.ackers@uni-due.de, office: S05 T02 B36, office tel.: +49 201 1836627
 
 
 ## Technical Assistants
