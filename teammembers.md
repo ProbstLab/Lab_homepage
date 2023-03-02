@@ -8,7 +8,7 @@ This is a list of current (state March 1st 2023) Probst Lab team members with th
 
 *Group pic to be added here*
 
-## Lab Head
+## Head of the lab
 
 Prof. Dr. Alexander Joseph Probst
 
@@ -16,7 +16,13 @@ Prof. Dr. Alexander Joseph Probst
 
 alexander.probst@uni-due.de, office: S05 T02 A30
 
-## Substitute Lab head & PostDoc
+## Staff Scientists
+
+Dr. Liliana Cristina Moraru
+
+![LCM](docs/assets/docs/assets/blank-portrait.png)
+
+liliana.cristina.moraru@uni-oldenburg.de, currently in home office
 
 Dr. Andre Rodriguez-Soarez
 
@@ -24,13 +30,13 @@ Dr. Andre Rodriguez-Soarez
 
 andre.rodrigues-soares@uni-due.de, office: S05 T02 A27
 
-## Team Assistent
+## Team Assistant
 
 Maximiliane Ackers
 
 ![MA](docs/assets/docs/assets/blank-portrait.png)
 
-maximiliane.ackers@uni-due.de, office:S05 T02 B36
+maximiliane.ackers@uni-due.de, office: S05 T02 B36
 
 ## Technical Assistants
 
@@ -46,13 +52,19 @@ Ines Pothmann
 
 ines.pothmann@uni-due.de, office: S05 T02 A24
 
-## Server Maintenance
+## Computer Scientist
 
 Ken Dreger
 
 ![KD](docs/assets/docs/assets/blank-portrait.png)
 
 ken.dreger@uni-due.de, *office: XXX*
+
+Manan Shah
+
+![MS](docs/assets/docs/assets/gem_manan_shah.jpeg)
+
+manan.shah@uni-due.de, office: S05 V05 F28
 
 ## PostDocs
 
@@ -61,12 +73,6 @@ Dr. Julia Nuy
 ![JN](docs/assets/docs/assets/gem_julia_nuy.jpeg)
 
 julia.nuy@uni-due.de, office: T03 R02 D60
-
-Dr. Liliana Christina Moraru
-
-![LCM](docs/assets/docs/assets/blank-portrait.png)
-
-liliana.cristina.moraru@uni-oldenburg.de, currently in home office
 
 Dr. Till Leander Valentin Bornemann
 
@@ -132,12 +138,6 @@ Hector Palomeque
 ![HP](docs/assets/docs/assets/gem_hector_hugo.jpeg)
 
 Hector.Palomeque@dlr.de, at DLR and externally supervised by AJP
-
-Manan Shah
-
-![MS](docs/assets/docs/assets/gem_manan_shah.jpeg)
-
-manan.shah@uni-due.de, office: S05 V05 F28 
 
 Lennard Stach
 
