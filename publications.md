@@ -9,9 +9,13 @@ This list was last updated on 1st of March 2023
 ### 2023
 
 103 - Turzynski V, Griesdorn L, Moraru C, Soares A, Simon SA, Stach TL, Rahlff J, Esser SP and Probst AJ (2023). Virus-host dynamics in archaeal groundwater biofilms and the associated bacterial community composition | bioRxiv, available at https://doi.org/10.1101/2023.02.03.526798 
+
 102 - Stach TL, Sieber G, Shah M, Simon SA, Soares AR, Bornemann TLV, Plewka J, Künkel J, Becker C, Meyer F, Boenigk J and Probst AJ (2023). Temporal disturbance of a model stream ecosystem by high microbial diversity from treated wastewater | accepted at MicrobiologyOpen
+
 101 - Pápai M, Benedek T, Táncsics A, Bornemann TLV, Plewka J, Probst AJ, Hussein D, Maroti G, Menashe O and Kriszt B (2023). Selective enrichment, identification, and isolation of diclofenac, ibuprofen, and carbamazepine degrading bacteria from a groundwater biofilm | Environ Sci Pollut Res (2023). https://doi.org/10.1007/s11356-022-24975-6
+
 100 - Simon SA, Schmidt K,Griesdorn L, Soares AR, Bornemann TLV, and Probst AJ (2023). Dancing the Nanopore limbo - Nanopore metagenomics from small DNA quantities for bacterial genome reconstruction | bioRxiv, available at https://doi.org/10.1101/2023.02.16.527874
+
 99 - Bornemann TLV, Esser SP, Stach TL, Burg T, and Probst AJ (2023). uBin – a manual refining tool for metagenomic bins designed for educational purposes | Environmental Microbiology, 1-7
 
 ### 2022
