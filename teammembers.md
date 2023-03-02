@@ -21,6 +21,7 @@ Dr. Liliana Cristina Moraru  <br>
 liliana.cristina.moraru@uni-oldenburg.de
 <br>
 <br>
+<br>
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_andre_rodrigues_soares.jpeg" width="300" />
 Dr. Andre Rodriguez-Soarez  <br>
 andre.rodrigues-soares@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837085
@@ -40,7 +41,7 @@ Sabrina Eisfeld  <br>
 sabrina.eisfeld@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1833262
 <br>
 <br>
-
+<br>
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_ines_pothmann.jpeg" width="300" />
 Ines Pothmann  <br>
 ines.pothmann@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1834109
@@ -53,7 +54,7 @@ Ken Dreger <br>
 ken.dreger@uni-due.de
 <br>
 <br>
-
+<br>
 
 
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_manan_shah.jpeg" width="300" />
