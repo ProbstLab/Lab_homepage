@@ -22,7 +22,7 @@ Dr. Liliana Cristina Moraru
 
 ![LCM](docs/assets/docs/assets/blank-portrait.png)
 
-liliana.cristina.moraru@uni-oldenburg.de, currently in home office
+liliana.cristina.moraru@uni-oldenburg.de
 
 Dr. Andre Rodriguez-Soarez
 
@@ -58,7 +58,7 @@ Ken Dreger
 
 ![KD](docs/assets/docs/assets/blank-portrait.png)
 
-ken.dreger@uni-due.de, *office: XXX*
+ken.dreger@uni-due.de
 
 Manan Shah
 
@@ -78,12 +78,9 @@ Dr. Till Leander Valentin Bornemann
 
 ![TLVB](docs/assets/docs/assets/gem_till_bornemann.jpeg)
 
-till.bornemann@uni-due.de
+till.bornemann@uni-due.de, office: S05 T02 B16
 
 ## PhD Students
-
- ![](docs/assets/docs/assets/)
-
 
 Julia Plewka
 
@@ -131,7 +128,7 @@ Ismail Hayani
 
 ![IH](docs/assets/docs/assets/blank-portrait.png)
 
-ismail.hayani.aji@uni-oldenburg.de, to be in Essen in person soon
+ismail.hayani.aji@uni-oldenburg.de
 
 Hector Palomeque
 
