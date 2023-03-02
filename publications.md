@@ -16,7 +16,7 @@ till 2015, some stars were removed as they cause highlighting in markdown
 101. Pápai M, Benedek T, Táncsics A, Bornemann TLV, Plewka J, Probst AJ, Hussein D, Maroti G, Menashe O and Kriszt B (2023). Selective enrichment, identification, and isolation of diclofenac, ibuprofen, and carbamazepine degrading bacteria from a groundwater biofilm | Environ Sci Pollut Res (2023). https://doi.org/10.1007/s11356-022-24975-6
 100. Simon SA, Schmidt K,Griesdorn L, Soares AR, Bornemann TLV, and Probst AJ (2023). Dancing the Nanopore limbo - Nanopore metagenomics from small DNA quantities for bacterial genome reconstruction | bioRxiv, available at https://doi.org/10.1101/2023.02.16.527874
 99. Bornemann TLV, Esser SP, Stach TL, Burg T, and Probst AJ (2023). uBin – a manual refining tool for metagenomic bins designed for educational purposes | Environmental Microbiology, 1-7
-
+{: reversed="reversed"}
 ### 2022
 98. Adam PS, Kolyfetis GE, Bornemann TLV, Vorgias CE, and Probst AJ (2021). Genomic remnants of ancestral hydrogen and methane metabolism in Archaea drive anaerobic carbon cycling | Science Advances 8 (44), eabm9651
 97. Hedlund BP, Chuvochina M, Hugenholtz P, Konstantinidis KT, Murray AE, Palmer M, Parks DH, Probst AJ, Reysenbach A-L, Rodriguez-R LM, Rossello-Mora R, Sutcliffe IC, Venter SN, Whitman WB (2022). SeqCode: a nomenclatural code for prokaryotes described from sequence data. Nature microbiology 7 (10), 1702-1708
