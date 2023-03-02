@@ -9,7 +9,6 @@ Latest group picture from Spring 2023.
 
 ## Head of the lab
 
-![AJP](docs/assets/gem_Alex_Probst.png)
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_Alex_Probst.png" width="300" />
 Prof. Dr. Alexander Joseph Probst
 alexander.probst@uni-due.de, office: S05 T02 A30, office tel.: +49 201 1837080
@@ -17,14 +16,10 @@ alexander.probst@uni-due.de, office: S05 T02 A30, office tel.: +49 201 1837080
 
 ## Staff Scientists
 
-
-
-![LCM](docs/assets/blank-portrait.png)
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
 Dr. Liliana Cristina Moraru
 liliana.cristina.moraru@uni-oldenburg.de
 
-![ARS](docs/assets/gem_andre_rodrigues_soares.jpeg)
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_andre_rodrigues_soares.jpeg" width="300" />
 Dr. Andre Rodriguez-Soarez
 andre.rodrigues-soares@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837085
@@ -32,26 +27,21 @@ andre.rodrigues-soares@uni-due.de, office: S05 T02 A27, office tel.: +49 201 183
 
 ## Team Assistant
 
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
 Maximiliane Ackers
-
-![MA](docs/assets/blank-portrait.png)
-
 maximiliane.ackers@uni-due.de, office: S05 T02 B36, office tel.: +49 201 1836627
 
 
 ## Technical Assistants
 
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_sabrina_eisfeld.jpeg" width="300" />
 Sabrina Eisfeld
-
-![SE](docs/assets/gem_sabrina_eisfeld.jpeg)
-
 sabrina.eisfeld@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1833262
 
 
+
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_ines_pothmann.jpeg" width="300" />
 Ines Pothmann
-
-![IP](docs/assets/gem_ines_pothmann.jpeg)
-
 ines.pothmann@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1834109
 
 
