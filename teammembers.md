@@ -16,6 +16,7 @@ Prof. Dr. Alexander Joseph Probst
 
 alexander.probst@uni-due.de, office: S05 T02 A30, office tel.: +49 201 1837080
 
+
 ## Staff Scientists
 
 Dr. Liliana Cristina Moraru
@@ -24,11 +25,13 @@ Dr. Liliana Cristina Moraru
 
 liliana.cristina.moraru@uni-oldenburg.de
 
+
 Dr. Andre Rodriguez-Soarez
 
 ![ARS](docs/assets/docs/assets/gem_andre_rodrigues_soares.jpeg)
 
 andre.rodrigues-soares@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837085
+
 
 ## Team Assistant
 
@@ -38,6 +41,7 @@ Maximiliane Ackers
 
 maximiliane.ackers@uni-due.de, office: S05 T02 B36
 
+
 ## Technical Assistants
 
 Sabrina Eisfeld
@@ -46,11 +50,13 @@ Sabrina Eisfeld
 
 sabrina.eisfeld@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1833262
 
+
 Ines Pothmann
 
 ![IP](docs/assets/docs/assets/gem_ines_pothmann.jpeg)
 
 ines.pothmann@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1834109
+
 
 ## Computer Scientist
 
@@ -60,11 +66,13 @@ Ken Dreger
 
 ken.dreger@uni-due.de
 
+
 Manan Shah
 
 ![MS](docs/assets/docs/assets/gem_manan_shah.jpeg)
 
 manan.shah@uni-due.de, office: S05 V05 F28, office tel.: +49 201 1832441
+
 
 ## PostDocs
 
@@ -74,11 +82,13 @@ Dr. Julia Nuy
 
 julia.nuy@uni-due.de, office: T03 R02 D60, office tel.: +49 201 1836935
 
+
 Dr. Till Leander Valentin Bornemann
 
 ![TLVB](docs/assets/docs/assets/gem_till_bornemann.jpeg)
 
 till.bornemann@uni-due.de, office: S05 T02 B16, office tel.: +49 201 1837180
+
 
 ## PhD Students
 
@@ -88,11 +98,13 @@ Julia Plewka
 
 julia.plewka@uni-due.de, office: S05 T02 B16, office tel.: +49 201 1837180
 
+
 Indra Banas
 
 ![IB](docs/assets/docs/assets/gem_indra_monsees.jpeg)
 
 indra.banas@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1834109
+
 
 Sophie Simon
 
@@ -100,11 +112,13 @@ Sophie Simon
 
 sophie.simon@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837085
 
+
 Sarah Esser
 
 ![SPE](docs/assets/docs/assets/gem_sarah_esser.jpeg)
 
 sarah.esser@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1833262
+
 
 Perla-Abigail Figueroa-Gonzalez
 
@@ -112,11 +126,13 @@ Perla-Abigail Figueroa-Gonzalez
 
 abigail.figueroa-gonzalez@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837081
 
+
 Katharina Siems
 
 ![KS](docs/assets/docs/assets/gem_katharina_siems.jpeg)
 
 Katharina.Siems@dlr.de, at DLR and externally supervised by AJP
+
 
 Victoria Turzynski
 
@@ -124,11 +140,13 @@ Victoria Turzynski
 
 victoria.turzynski@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837081
 
+
 Ismail Hayani
 
 ![IH](docs/assets/docs/assets/blank-portrait.png)
 
 ismail.hayani.aji@uni-oldenburg.de
+
 
 Hector Palomeque
 
@@ -136,11 +154,13 @@ Hector Palomeque
 
 Hector.Palomeque@dlr.de, at DLR and externally supervised by AJP
 
+
 Lennard Stach
 
 ![LS](docs/assets/docs/assets/gem_tom_lennard_stach.jpeg)
 
 tom.stach@uni-due.de, office: S05 T02 B16, office tel.: +49 201 1837181
+
 
 Joern Starke
 
@@ -157,6 +177,7 @@ Carrie Moore
 
 carrie.moore@stud.uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837081
 
+
 Julian Kuenkel
 
 ![JK](docs/assets/docs/assets/blank-portrait.png)
@@ -170,6 +191,7 @@ Thomas Beesley
 
 thomas.beesley@stud.uni-due.de, office: S05 T02 A24, office tel.: +49 201 1833262
 
+
 ## Bachelor Students
 
 Adrian Lange
@@ -177,6 +199,8 @@ Adrian Lange
 ![AL](docs/assets/docs/assets/blank-portrait.png)
 
 adrian.lange@stud.uni-due.de, office: S05 T02 A27
+
+
 ## Student Helpers
 
 Jannis Becker
@@ -185,11 +209,13 @@ Jannis Becker
 
 jannis.becker@stud.uni-due.de, office: S05 T02 B16
 
+
 Komal Kaur
 
 ![KK](docs/assets/docs/assets/GEM_Komal_Preet_Kauer.jpg)
 
 komal.kaur@stud.uni-due.de, office: S05 T02 A27
+
 
 Lea Griesdorn
 
