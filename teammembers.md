@@ -14,7 +14,7 @@ Prof. Dr. Alexander Joseph Probst
 
 ![AJP](docs/assets/docs/assets/gem_Alex_Probst.png)
 
-alexander.probst@uni-due.de, office: S05 T02 A30
+alexander.probst@uni-due.de, office: S05 T02 A30, office tel.: +49 201 1837080
 
 ## Staff Scientists
 
@@ -72,7 +72,7 @@ Dr. Julia Nuy
 
 ![JN](docs/assets/docs/assets/gem_julia_nuy.jpeg)
 
-julia.nuy@uni-due.de, office: T03 R02 D60
+julia.nuy@uni-due.de, office: T03 R02 D60, office tel.: +49 201 1836935
 
 Dr. Till Leander Valentin Bornemann
 
