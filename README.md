@@ -1,7 +1,5 @@
 <p align="center">
 <img src="./docs/assets/Probst_Lab_Logo_transparent.png" width="300" alt='logo' />
-<img src="https://ProbstLab.github.io/Lab_homepage/docs/assets/Probst_Lab_Logo_transparent.png" width="300" alt='logo' />
-
 
 
 </p>
