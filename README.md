@@ -2,7 +2,7 @@
 
 ![lab logo](docs/assets/Probst_Lab_Logo_transparent.png)
 
-<img src="https://github.com/ProbstLab/Lab_homepage/docs/assets/Probst_Lab_Logo_transparent.png" width=20% height=20%>
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/Probst_Lab_Logo_transparent.png" width=20% height=20%>
 
 ## General data
 
