@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/Probst_Lab_Logo_transparent.png" width="300" />
 <img src="./docs/assets/Probst_Lab_Logo_transparent.png" width="300" />
 </p>
 
