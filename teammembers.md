@@ -1,18 +1,17 @@
-![lab logo](docs/assets/Probst_Lab_Logo_transparent.png)
-
 # Probst Lab Team members
 
 This is a list of current (state March 1st 2023) Probst Lab team members with their current position, pictures and contact information (in no particular order).
 
-## Latest group picture ()
+![grouppic](docs/assets/docs/assets/gem_grouppic_spring2023.jpg)
+Latest group picture from Spring 2023.
 
-*Group pic to be added here*
+
 
 ## Head of the lab
 
 Prof. Dr. Alexander Joseph Probst
 
- ![AJP](docs/assets/docs/assets/gem_alexander_probst.jpeg)
+![AJP](docs/assets/docs/assets/gem_Alex_Probst.png)
 
 alexander.probst@uni-due.de, office: S05 T02 A30
 
