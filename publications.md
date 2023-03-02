@@ -9,19 +9,19 @@ This list was last updated on 1st of March 2023
 
 ### 2023
 
-103 - Turzynski V, Griesdorn L, Moraru C, Soares A, Simon SA, Stach TL, Rahlff J, Esser SP and Probst AJ (2023). Virus-host dynamics in archaeal groundwater biofilms and the associated bacterial community composition | bioRxiv 526798 
+103 - Turzynski V, Griesdorn L, Moraru C, Soares A, Simon SA, Stach TL, Rahlff J, Esser SP and Probst AJ (2023). Virus-host dynamics in archaeal groundwater biofilms and the associated bacterial community composition. bioRxiv 526798 
 
-102 - Stach TL, Sieber G, Shah M, Simon SA, Soares AR, Bornemann TLV, Plewka J, Künkel J, Becker C, Meyer F, Boenigk J and Probst AJ (2023). Temporal disturbance of a model stream ecosystem by high microbial diversity from treated wastewater | accepted at MicrobiologyOpen
+102 - Stach TL, Sieber G, Shah M, Simon SA, Soares AR, Bornemann TLV, Plewka J, Künkel J, Becker C, Meyer F, Boenigk J and Probst AJ (2023). Temporal disturbance of a model stream ecosystem by high microbial diversity from treated wastewater. accepted at MicrobiologyOpen
 
-101 - Pápai M, Benedek T, Táncsics A, Bornemann TLV, Plewka J, Probst AJ, Hussein D, Maroti G, Menashe O and Kriszt B (2023). Selective enrichment, identification, and isolation of diclofenac, ibuprofen, and carbamazepine degrading bacteria from a groundwater biofilm | Environ Sci Pollut Res (2023).
+101 - Pápai M, Benedek T, Táncsics A, Bornemann TLV, Plewka J, Probst AJ, Hussein D, Maroti G, Menashe O and Kriszt B (2023). Selective enrichment, identification, and isolation of diclofenac, ibuprofen, and carbamazepine degrading bacteria from a groundwater biofilm. Environ Sci Pollut Res (2023).
 
-100 - Simon SA, Schmidt K,Griesdorn L, Soares AR, Bornemann TLV, and Probst AJ (2023). Dancing the Nanopore limbo - Nanopore metagenomics from small DNA quantities for bacterial genome reconstruction | bioRxiv 527874
+100 - Simon SA, Schmidt K,Griesdorn L, Soares AR, Bornemann TLV, and Probst AJ (2023). Dancing the Nanopore limbo - Nanopore metagenomics from small DNA quantities for bacterial genome reconstruction. bioRxiv 527874
 
-99 - Bornemann TLV, Esser SP, Stach TL, Burg T, and Probst AJ (2023). uBin – a manual refining tool for metagenomic bins designed for educational purposes | Environmental Microbiology, 1-7
+99 - Bornemann TLV, Esser SP, Stach TL, Burg T, and Probst AJ (2023). uBin – a manual refining tool for metagenomic bins designed for educational purposes. Environmental Microbiology, 1-7
 
 
 ### 2022
-98 - Adam PS, Kolyfetis GE, Bornemann TLV, Vorgias CE, and Probst AJ (2021). Genomic remnants of ancestral hydrogen and methane metabolism in Archaea drive anaerobic carbon cycling | Science Advances 8 (44), eabm9651
+98 - Adam PS, Kolyfetis GE, Bornemann TLV, Vorgias CE, and Probst AJ (2021). Genomic remnants of ancestral hydrogen and methane metabolism in Archaea drive anaerobic carbon cycling. Science Advances 8 (44), eabm9651
 
 97 - Hedlund BP, Chuvochina M, Hugenholtz P, Konstantinidis KT, Murray AE, Palmer M, Parks DH, Probst AJ, Reysenbach A-L, Rodriguez-R LM, Rossello-Mora R, Sutcliffe IC, Venter SN, Whitman WB (2022). SeqCode: a nomenclatural code for prokaryotes described from sequence data. Nature microbiology 7 (10), 1702-1708
 
@@ -43,17 +43,17 @@ This list was last updated on 1st of March 2023
 
 88 - da Rocha UN, Kasmanas J, Kallies R, Saraiva JP, Toscan RB, Stefanic P, Bicalho MF, Correa FB, Basturk MN, Fousekis E, Barbosa LMV, Plewka J, Probst AJ, Baldrian P, Stadler PF (2022). MuDoGeR: Multi-Domain Genome Recovery from metagenomes made easy. bioRxiv 496983
 
-87 -  Monsees I, Turnzynski V, Esser SP, Soares A, Timmermann L, Weidenbach K, Banas J, Kloster M, Beszteri B, Schmidt-Streit R, Probst AJ (2022) Label-free Raman microspectroscopy for identifying prokaryotic virocells. bioRxiv 461451 (differing title) | mSystems 7 (1), e01505-21
+87 -  Monsees I, Turnzynski V, Esser SP, Soares A, Timmermann L, Weidenbach K, Banas J, Kloster M, Beszteri B, Schmidt-Streit R, Probst AJ (2022) Label-free Raman microspectroscopy for identifying prokaryotic virocells. bioRxiv 461451 (differing title). mSystems 7 (1), e01505-21
 
 86 - Chaudhari NM, Overholt WA, Figueroa-Gonzalez PA, Taubert M, Bornemann TLV, Probst AJ, Hölzer M, Marz M, Küsel K (2022). The economical lifestyle of CPR bacteria in groundwater allows little preference for environmental drivers. Environmental Microbiome, 16(1), 1-18
 
-85 - Bornemann TLV , Adam PS, Turzynski V, Schreiber U, Figueroa-Gonzalez PA, Rahlff J, Köster D, Schmidt TC, Schunk R, Krauthausen B, Probst AJ (2022). Genetic diversity in terrestrial subsurface ecosystems impacted by geological degassing. bioRxiv 980714 (differing title) | Nature Communications 13(1), 1-12
+85 - Bornemann TLV , Adam PS, Turzynski V, Schreiber U, Figueroa-Gonzalez PA, Rahlff J, Köster D, Schmidt TC, Schunk R, Krauthausen B, Probst AJ (2022). Genetic diversity in terrestrial subsurface ecosystems impacted by geological degassing. bioRxiv 980714 (differing title). Nature Communications 13(1), 1-12
 
 
 ### 2021
 84 - Turzynski V, Monsees I, Moraru C, Probst AJ (2021). Imaging techniques for detecting prokaryotic viruses in environmental samples. Viruses 13(11), 2126
 
-83 - Hwang Y, Schulze-Makuch D, Arens FL, Saenz JS, Adam PS, Bornemann TLV, Airo A, Schloter M, and Probst AJ (2020). Leave no stone unturned: individually adapted xerotolerant Thaumarchaeota sheltered below the boulders of the Atacama Desert hyperarid core. bioRxiv 208546 (differing title) | Microbiome 9 (1), 1-17
+83 - Hwang Y, Schulze-Makuch D, Arens FL, Saenz JS, Adam PS, Bornemann TLV, Airo A, Schloter M, and Probst AJ (2020). Leave no stone unturned: individually adapted xerotolerant Thaumarchaeota sheltered below the boulders of the Atacama Desert hyperarid core. bioRxiv 208546 (differing title). Microbiome 9 (1), 1-17
 
 82 - Yang S, Liebner S, Walz J, Knoblauch C, Bornemann TLV, Probst AJ, Wagner D, Jetten MSM, in ‘t Zandt MH (2021). Effects of long-term anoxiv warming scenario on microbial community structure and functional potential of permafrost-affected soil. Permafrost and Periglacial Process, 32(4), 641-656
 
@@ -61,9 +61,9 @@ This list was last updated on 1st of March 2023
 
 80 - Starr EP, Shi S, Blazewicz SJ, Koch BJ, Probst AJ, Hungate BA, Pett-Ridge J, Firestone MK, Banfield JF (2021). Stable-isotope-informed, genome-resolved metagenomics uncovers potential cross-kingdom interactions in rhizosphere soil. mSphere 6(5), e00085-21
 
-79 - Kieft K, Beister AM, Huss P, Linz AM, Zanetakos E, Zhou Z, Rahlff J, Esser SP, Probst AJ, Raman S, Roux S, Anantharaman K (2021). Virus-associated organosulfur metabolism in human and environmental systems. bioRxiv 42518 | Cell Reports 36, 109471
+79 - Kieft K, Beister AM, Huss P, Linz AM, Zanetakos E, Zhou Z, Rahlff J, Esser SP, Probst AJ, Raman S, Roux S, Anantharaman K (2021). Virus-associated organosulfur metabolism in human and environmental systems. bioRxiv 42518. Cell Reports 36, 109471
 
-78 - Rahlff J, Turzynski V, Esser SP, Monsees I, Bornemann TLV, Figueroa-Gonzalez PA, Schulz F, Woyke T, Klingl A, Moraru C, and Probst AJ (2020). Lytic archaeal viruses infect abundant primary producers in Earth’s crust. bioRxiv 215848 (differing title) | Nature Communications 12, 4642
+78 - Rahlff J, Turzynski V, Esser SP, Monsees I, Bornemann TLV, Figueroa-Gonzalez PA, Schulz F, Woyke T, Klingl A, Moraru C, and Probst AJ (2020). Lytic archaeal viruses infect abundant primary producers in Earth’s crust. bioRxiv 215848 (differing title). Nature Communications 12, 4642
 
 77 - Hwang Y, Rahlff J, Schulze-Makuch D, Schloter M, Probst AJ (2021). Diverse viruses carrying genes for microbial extremotolerance in the Atacama Desert hyperarid soil. mSystems 6(3), e00385-21
 
@@ -83,9 +83,9 @@ This list was last updated on 1st of March 2023
 
 70 - Murray AE, Freudenstein J, Gribaldo S, Hatzenpichler R, Hugenholtz P, Kämpfer P, Konstantinidis KT, Lane CE, Papke RT, Parks DH, Rossello-Mora R, Stott MB, Sutcliffe IC, Thrash JC, Venter SN, Whitman WB, Acinas SG, Amann RI, Anantharaman K, Armengaud J, Baker BJ, Barco RA, Bode HB, Boyd ES, Brady CL, Carini P, Chain PSG, Colman DR, DeAngelis KM, de los Rios MA, Estrada-de los Santos P, Dunlap CA, Eisen JA, Emerson D, Ettema TJG, Eveillard D, Girguis PR, Hentschel U, Hollibaugh JT, Hug LA, Inskeep WP, Ivanova EP, Klenk HP, Li WJ, Lloyd KG, Löffler FE, Makhalanyane TP, Moser DP, Nunoura T, Palmer M, Parro V, Pedrós-Alió C, Probst AJ, Smits THM, Steen AD, Steenkamp ET, Spang A, Stewart FJ, Tiedje JM, Vandamme P, Wagner M, Wang FP, Hedlund BP and Reysenbach AL (2020). Roadmap for naming uncultivated Archaea and Bacteria. Nature Microbiology 5: 987-994
 
-69 - Al-Shayeb B, Sachdeva R, Chen L-X, Ward F, Munk P, Devoto A, Castelle CJ, Olm MR, Bouma-Gregson K, Amano Y, He C, Méheust R, Brooks B, Thomas A, Lavy A, Matheus-Carnevali P, Sun C, Goltsman DSA, Borton MA, Nelson TC, Kantor R, Jaffe AL, Keren R, Farag IF, Lei S, Finstad K, Amundson RA, Anantharaman K, Zhou J, Probst AJ, Power ME, Tringe SG, Li W-J, Wrighton K, Harrison S, Morowitz M, Relman DA, Doudna JA, Lehours A-C, Warren L,  Cate JHD, Santini JM, Banfield JF (2020). Clades of huge phage from across Earth’s ecosystems. bioRxiv 572362 | Nature 578 (7795): 425-431
+69 - Al-Shayeb B, Sachdeva R, Chen L-X, Ward F, Munk P, Devoto A, Castelle CJ, Olm MR, Bouma-Gregson K, Amano Y, He C, Méheust R, Brooks B, Thomas A, Lavy A, Matheus-Carnevali P, Sun C, Goltsman DSA, Borton MA, Nelson TC, Kantor R, Jaffe AL, Keren R, Farag IF, Lei S, Finstad K, Amundson RA, Anantharaman K, Zhou J, Probst AJ, Power ME, Tringe SG, Li W-J, Wrighton K, Harrison S, Morowitz M, Relman DA, Doudna JA, Lehours A-C, Warren L,  Cate JHD, Santini JM, Banfield JF (2020). Clades of huge phage from across Earth’s ecosystems. bioRxiv 572362.  Nature 578 (7795): 425-431
 
-68 - Probst AJ, Elling FJ, Castelle CJ, Zhu Q, Elvert M, Birarda G, Holman HY, Lane KR, Ladd B, Ryan MC, Woyke T, Hinrichs KU, Banfield JF (2020). Lipid analysis of CO2-rich subsurface aquifers suggests an autotrophy-based deep biosphere with lysolipids enriched in CPR bacteria. bioRxiv 465690 | ISME J 14: 1547-1560
+68 - Probst AJ, Elling FJ, Castelle CJ, Zhu Q, Elvert M, Birarda G, Holman HY, Lane KR, Ladd B, Ryan MC, Woyke T, Hinrichs KU, Banfield JF (2020). Lipid analysis of CO2-rich subsurface aquifers suggests an autotrophy-based deep biosphere with lysolipids enriched in CPR bacteria. bioRxiv 465690. ISME J 14: 1547-1560
 
 67 - Nuy JK, Bornemann T, Beisser D, Probst AJ, Boenigk J (2020). Comparing Community Measures in Lake Microbial Ecology: Metagenomes and Metatranscriptomes and Amplicons, oh my! Research Square, https://doi.org/10.21203/rs.3.rs-29111/v1
 
@@ -104,7 +104,7 @@ This list was last updated on 1st of March 2023
 
 60 - Schwank K, Bornemann TLV, Dombrowski N, Spang A, Banfield JF, and Probst AJ (2019). An archaeal symbiont-host association from the deep terrestrial subsurface. ISME J 13(8): 2135-2139
 
-59 - Bourma-Gregson K, Olm MR, Probst AJ, Anantharaman K, Power ME, and Banfield JF (2019). Microbial diversity and metabolic potential in cyanotoxin producing cyanobacterial mats throughout a river network. bioRxiv 294421 | ISME J 13(6): 1618-1634
+59 - Bourma-Gregson K, Olm MR, Probst AJ, Anantharaman K, Power ME, and Banfield JF (2019). Microbial diversity and metabolic potential in cyanotoxin producing cyanobacterial mats throughout a river network. bioRxiv 294421. ISME J 13(6): 1618-1634
 
 
 ### 2018
@@ -112,11 +112,11 @@ This list was last updated on 1st of March 2023
 
 57 - Castelle C, Brown CT, Anantharaman K, Probst AJ, Huang RH, and Banfield JF (2018). Biosynthetic capacity, metabolic variety and unusual biology in the CPR and DPANN radiations. Nature Reviews in Microbiology 16 (10): 629-645
 
-56 - Sieber CMK, ProbstAJ, Sharon I, Sharrar A, Thomas BC, Hess M, Tringe SG, and Banfield JB (2016/17). Recovery of genomes from metagenoms via a dereplication aggregation and scoring strategy. bioRxiv, 107789 | Nature Microbiol, 3 (7): 836-843
+56 - Sieber CMK, ProbstAJ, Sharon I, Sharrar A, Thomas BC, Hess M, Tringe SG, and Banfield JB (2016/17). Recovery of genomes from metagenoms via a dereplication aggregation and scoring strategy. bioRxiv, 107789. Nature Microbiol, 3 (7): 836-843
 
 55 - Nocker A, Shah M, Dannenmann B, Schulze-Osthoff K, Wingender J, and Probst AJ (2018). Assessment of UV-C-induced water disinfection by differential PCR-based quantification of bacterial DNA damage. J Microbiol Met, pp. 89-95, Vol. 149
 
-54 - Starr EP, Shi S, Blazewicz SJ, Probst AJ, Herman DJ, Firestone MA, and Banfield JF (2018). Stable isotope informed genome-resolved metagenomics reveals that Saccharibacteria utilize microbially processed plant derived carbon. bioRxiv 211649 | Microbiome 122, Vol. 6 (1)
+54 - Starr EP, Shi S, Blazewicz SJ, Probst AJ, Herman DJ, Firestone MA, and Banfield JF (2018). Stable isotope informed genome-resolved metagenomics reveals that Saccharibacteria utilize microbially processed plant derived carbon. bioRxiv 211649. Microbiome 122, Vol. 6 (1)
 
 53 - West P, Probst AJ, Grigoriev I, Thomas BC, and Banfield JF (2017). Genome reconstruction of Eukaryotes from complex natural microbial communities. Genome Research, 569-580, Vol. 28 (4)
 
