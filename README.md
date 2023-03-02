@@ -4,6 +4,7 @@
 <img src="https://probstlab.github.io/Lab_homepage/docs/assets/Probst_Lab_Logo_transparent.png" width=40% height=40%>
   </p>
 
+![lablogo](docs/assets/Probst_Lab_Logo_transparent.png)
 ## General affiliation
 
 Environmental Metagenomics, Research Center One Health Ruhr of the University Alliance Ruhr, Faculty of Chemistry, University of Duisburg-Essen, Germany
