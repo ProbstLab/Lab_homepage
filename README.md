@@ -1,6 +1,6 @@
 # Probst Lab Homepage
 
-![lab logo](docs/assets/Probst_Lab_Logo_transparent.png | width=200)
+![lab logo](docs/assets/Probst_Lab_Logo_transparent.png)
 
 
 ## General data
