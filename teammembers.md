@@ -9,26 +9,24 @@ Latest group picture from Spring 2023.
 
 ## Head of the lab
 
-Prof. Dr. Alexander Joseph Probst
-
 ![AJP](docs/assets/gem_Alex_Probst.png)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_Alex_Probst.png" width="300" />
+Prof. Dr. Alexander Joseph Probst
 alexander.probst@uni-due.de, office: S05 T02 A30, office tel.: +49 201 1837080
 
 
 ## Staff Scientists
 
-Dr. Liliana Cristina Moraru
+
 
 ![LCM](docs/assets/blank-portrait.png)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
+Dr. Liliana Cristina Moraru
 liliana.cristina.moraru@uni-oldenburg.de
 
-
-Dr. Andre Rodriguez-Soarez
-
 ![ARS](docs/assets/gem_andre_rodrigues_soares.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_andre_rodrigues_soares.jpeg" width="300" />
+Dr. Andre Rodriguez-Soarez
 andre.rodrigues-soares@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837085
 
 
