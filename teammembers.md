@@ -3,6 +3,7 @@
 This is a list of current (state March 1st 2023) Probst Lab team members with their current position, pictures and contact information (in no particular order).
 
 ![grouppic](docs/assets/docs/assets/gem_grouppic_spring2023.jpg)
+
 Latest group picture from Spring 2023.
 
 
