@@ -10,7 +10,7 @@ Latest group picture from Spring 2023.
 ## Head of the lab
 
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_Alex_Probst.png" width="300" />
-Prof. Dr. Alexander Joseph Probst  
+Prof. Dr. Alexander Joseph Probst <br>
 alexander.probst@uni-due.de, office: S05 T02 A30, office tel.: +49 201 1837080
 
 
