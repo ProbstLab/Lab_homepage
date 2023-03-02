@@ -1,8 +1,6 @@
 # Probst Lab Homepage
 
-![lab logo](docs/assets/Probst_Lab_Logo_transparent.png)
-
-<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/Probst_Lab_Logo_transparent.png" width=40% height=40%>
+<img align='center' src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/Probst_Lab_Logo_transparent.png" width=40% height=40%>
 
 ## General data
 
