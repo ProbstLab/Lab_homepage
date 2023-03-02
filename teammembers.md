@@ -19,7 +19,8 @@ alexander.probst@uni-due.de, office: S05 T02 A30, office tel.: +49 201 1837080
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
 Dr. Liliana Cristina Moraru  <br>
 liliana.cristina.moraru@uni-oldenburg.de
-
+<br>
+<br>
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_andre_rodrigues_soares.jpeg" width="300" />
 Dr. Andre Rodriguez-Soarez  <br>
 andre.rodrigues-soares@uni-due.de, office: S05 T02 A27, office tel.: +49 201 1837085
@@ -37,8 +38,8 @@ maximiliane.ackers@uni-due.de, office: S05 T02 B36, office tel.: +49 201 1836627
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_sabrina_eisfeld.jpeg" width="300" />
 Sabrina Eisfeld  <br>
 sabrina.eisfeld@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1833262
-
-
+<br>
+<br>
 
 <img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_ines_pothmann.jpeg" width="300" />
 Ines Pothmann  <br>
@@ -47,17 +48,16 @@ ines.pothmann@uni-due.de, office: S05 T02 A24, office tel.: +49 201 1834109
 
 ## Computer Scientist
 
-Ken Dreger
-
-![KD](docs/assets/blank-portrait.png)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/blank-portrait.png" width="300" />
+Ken Dreger <br>
 ken.dreger@uni-due.de
+<br>
+<br>
 
 
-Manan Shah
 
-![MS](docs/assets/gem_manan_shah.jpeg)
-
+<img src="https://github.com/ProbstLab/Lab_homepage/blob/main/docs/assets/gem_manan_shah.jpeg" width="300" />
+Manan Shah <br>
 manan.shah@uni-due.de, office: S05 V05 F28, office tel.: +49 201 1832441
 
 
