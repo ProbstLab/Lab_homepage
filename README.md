@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./master/docs/assets/Probst_Lab_Logo_transparent.png" width="300" />
+<img src="./docs/assets/Probst_Lab_Logo_transparent.png" width="300" />
 </p>
 
 Environmental Metagenomics, Research Center One Health Ruhr of the University Alliance Ruhr, Faculty of Chemistry, University of Duisburg-Essen, Germany
