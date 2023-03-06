@@ -251,3 +251,14 @@ komal.kaur@stud.uni-due.de, office: S05 T02 A27
 <br>
 Lea Griesdorn <br>
 lea.griesdorn@stud.uni-due.de, office: S05 T02 A27
+
+<br>
+<br>
+<br>
+ 
+<img src="./docs/assets/gem_katharina_siems.jpeg" width="300" />
+<br>
+Katharina Sures <br>
+k_sure01@uni-muenster.de, office: S05 T02 B16
+
+
